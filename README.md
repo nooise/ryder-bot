@@ -1,5 +1,3 @@
-# Ticket Bot
-
-Ticket Bot is a open source project of an ticket discord bot using
-
-
+# Ryder Bot Discor Ticket System
+- Developer by nooise
+- Work on GTA:Enpoint AnotherWorld
