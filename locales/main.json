@@ -1,0 +1,71 @@
+{
+  "embeds": {
+    "openTicket": {
+      "title": "GTA Enpoint AnotherWorld - Help Page",
+      "description": "Thank you for visiting the GTA Enpoint AnotherWorld ticket help page. We will assist you with whatever difficulty you are experiencing on the server. You can select from the various alternatives based on your requirements.",
+      "footer": {
+        "text": "~ ©️ GTA Enpoint AnotherWorld",
+        "iconUrl": ""
+      }
+    },
+    "ticketOpened": {
+      "title": "Ticket CATEGORYNAME",
+      "description": "A staff will reply you as soon as possible!",
+      "footer": {
+        "text": "~ ©️ GTA Enpoint AnotherWorld",
+        "iconUrl": ""
+      }
+    },
+    "ticketClosed": {
+      "title": "Ticket Telah ditutup!",
+      "description": "Tiket telah ditutup olehCLOSERNAME dengan alasan: `REASON`"
+    },
+    "ticketClosedDM": {
+      "title": "Ticket Telah ditutup!",
+      "description": "Tiket telah ditutup oleh CLOSERNAME dengan alasan: `REASON`\n\nKamu bisa melihat history chat disini: TRANSCRIPTURL",
+      "footer": {
+        "text": "~ ©️ GTA Enpoint AnotherWorld",
+        "iconUrl": ""
+      }
+    }
+  },
+  "modals": {
+    "reasonTicketOpen": {
+      "title": "Membuat Tiket!",
+      "label": "Silahkan isi alasan kamu membuat tiket!",
+      "placeholder": "Silahkan isi alasan kamu membuat tiket! JANGAN DIBUAT MAIN MAIN!"
+    },
+    "reasonTicketClose": {
+      "title": "Menutup Tiket!",
+      "label": "Silahkan isi alasan kamu menutup tiket!",
+      "placeholder": "Silahkan isi alasan kamu menutup tiket! JANGAN ASAL TUTUP TIKET!"
+    }
+  },
+  "buttons": {
+    "close": {
+      "label": "TUTUP TIKET",
+      "emoji": "🔒"
+    },
+    "claim": {
+      "label": "KLAIM TIKET",
+      "emoji": "🙋"
+    }
+  },
+  "ticketOpenedMessage": "Ticket opened! TICKETCHANNEL",
+  "ticketOnlyClaimableByStaff": "The ticket can only be claimed by a staff!",
+  "ticketAlreadyClaimed": "The ticket is already claimed!",
+  "ticketClaimedMessage": "Tiket sudah diklain oleh USER",
+  "ticketOnlyClosableByStaff": "Hanya Administrator yang bisa tutup tiket.",
+  "ticketAlreadyClosed": "Tiket sudah ditutup!",
+  "ticketCreatingTranscript": "Membuat history tiket...",
+  "ticketTranscriptCreated": "History tiket telah dibuat silahkan cek: TRANSCRIPTURL",
+  "ticketLimitReached": "Kamu hanya bisa membuat TICKETLIMIT saja!",
+
+  "other": {
+    "openTicketButtonMSG": "KLIK UNTUK MEMBUAT TIKET",
+    "deleteTicketButtonMSG": "HAPUS TIKET",
+    "selectTicketTypePlaceholder": "Silahkan pilih opsi dibawah ini.",
+    "claimedBy": "**Claimed By**: USER",
+    "noReasonGiven": "Tidak ada keterangan"
+  }
+}
